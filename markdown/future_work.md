@@ -1,5 +1,8 @@
+Future work
+-----------
+
 1. Determine the meaning of the EEPROM contents.
-2. Write an in-drone flasher (avrdude wrapper?). Not sure about that since AVRdude requires MOSI/MISO/SCLCK,
-so perhaps having a custom bootloader that takes the firmware over regular UART and reflashes itself instead?
-3. Fork https://github.com/Parrot-Developers/ardrone-opensource and pullrequest a real opensource clone of program.elf and flash_blc.ihex. Start here: https://github.com/cbarox/ardrone.
-4. Share binaries with encrypted project files.
+2. ESIL support for AVR!!!
+3. Port [F# radare script from the AVR Russians](https://github.com/radare/radare2/issues/5268).
+4. Share binaries with encrypted project files, integrate with radare-cloud.
+5. Fix/try more (working!) simulators like [simavr_emscripten](https://github.com/donothingloop/simavr_emscripten) and [javr](https://bitbucket.org/bodyjarrocks/javr).

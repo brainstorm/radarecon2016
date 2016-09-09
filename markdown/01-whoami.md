@@ -3,8 +3,8 @@
 * @braincode on twitter, @brainstorm on github.
 * An ~~outsider~~ newbie in the HW/RE community.
 * Bioinformatician, so python is awesome (hugs @trufae).
-* Recent hobbies: playing with MCUs such as Atmega8 and the mighty ESP8266.
-* Swedish, catalan, (soon Australian?).
+* Recent hobbies: playing with MCUs such as Atmega8 and the mighty ESP8266/ESP32.
+* Swedish, catalan, (heading towards Australia?).
 
 
 I deal with this...
@@ -49,10 +49,10 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII6IBIIIIIIIIIIIIIIIIIIIIIIIGII>IIIII-I)8I
 [Structural Variations](https://en.wikipedia.org/wiki/Structural_variation)
 
 
-Sometimes this [as seen in radare](https://github.com/radare/radare2-extras/tree/master/bcl)
+Sometimes this [as seen in radare-extras BCL support](https://github.com/radare/radare2-extras/tree/master/bcl)
 --------------------------------------------------------------------------------------------
 
-![illumina_bcl_spec](res/illumina_bcl.png)
+![illumina_bcl_radare](res/illumina_bcl_radare.png)
 
 [Illumina(tm) BCL format](http://support.illumina.com/content/dam/illumina-support/documents/documentation/software_documentation/bcl2fastq/bcl2fastq_letterbooklet_15038058brpmi.pdf)
 

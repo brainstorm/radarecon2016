@@ -21,6 +21,12 @@ Plan
 
 Note:
 * Whenever I get near a screwdriver, things get opened and all over the place, can I delay this until I really need it? Yes!
-* If there's a so-called integrated circuit that is burned, game over, no software fun.
+* Amazing how detailed the photos from the boards are in FCCID
 * Wanted to get radare2 right inside the drone for practical reasons. Could not.
 * At some point one gets tired of re-reading the datasheet over and over. Annotate!
+
+
+FCCID.io schematic
+------------------
+
+![fccid_io](res/drone_diagram.png)
